@@ -1,3 +1,3 @@
 # my-projects-faizan
 <br>
-this my first repo
+Buit a calculator using HTML5 , CSS4 and javascript.
