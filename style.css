@@ -12,26 +12,29 @@
 }
 
 .content{            /*styles for calculator*/
-    height: 650px;
+    height: 670px;
     width: 27%;
     border: 3px solid white;
-    margin-top: 2%;
+    margin-top: 0.5%;
     border-radius: 20px;
 }
-.input-box{         /*styles for input box*/
-    height: 10em;
-    width: 100%;
+.input_box{         /*styles for input box*/
+    height: 7em;
+    width: 95%;
     border: none;
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 3px solid white;
+    border: 2px solid white;
     border-radius: 20px;
+    margin-top: 8px;
+    margin-left: 8px;
 }
 input{              /*styles for input*/
+    height: 100%;
     width: 99%;
-    font-size: 6em;
-    border: 3px solid white;
+    font-size: 3em;
+    border: none;
     border-radius: 20px;
 }
 .row{              /*style for each row having 5 buttons*/
